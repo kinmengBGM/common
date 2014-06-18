@@ -1,13 +1,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.beans</groupId>
-	<version>0.1.0</version>	
+	<version>0.1.1-SNAPSHOT</version>	
 	<artifactId>common</artifactId>
   <scm>
     <connection>scm:git:https://github.com/kinmengBGM/common.git</connection>
     <developerConnection>scm:git:https://github.com/kinmengBGM/common.git</developerConnection>
     <url>https://github.com/kinmengBGM/commin</url>
-    <tag>common-0.1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 	<properties>
 		<spring.data.jpa.version>1.4.3.RELEASE</spring.data.jpa.version>
